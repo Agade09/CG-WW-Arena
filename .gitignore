@@ -1,0 +1,5 @@
+*
+!.gitignore
+!Arena.cpp
+!Makefile
+!README.md
